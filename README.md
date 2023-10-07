@@ -12,4 +12,4 @@
 ![alt text](https://github.com/pieroproietti/penguins-blog/assets/95327709/bb2523fe-af71-4c2b-a690-8e45b40ae86e)
 
 ![image](https://github.com/Bvsuper/roboticsportfolio/assets/142936402/2dfcd024-79ba-4659-9496-e00aab178529)
-# We plan on making a shovel or scoop type attatchment that will push things as the bot moves along.
+# We plan on making a shovel or scoop type attachment that will push things as the bot moves along.
